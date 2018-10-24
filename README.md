@@ -20,3 +20,5 @@ Nicht genutzte Motive:
 * Unendlich- When pigs fly (Wenn Schweine fliegen könnten...)
 * Brownie
 * Yak shaving
+
+Lizenz: siehe Lizenzseite
